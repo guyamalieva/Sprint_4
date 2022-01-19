@@ -24,7 +24,7 @@ public class AccountTest {
                 {"Шаламе Пробел ", false},
                 {"ТимотиШаламе", false},
                 {"Ти моти Шаламе", false},
-                {"null", false}
+                {null, false}
         };
     }
     @Test
